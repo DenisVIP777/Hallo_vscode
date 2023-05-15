@@ -1,0 +1,26 @@
+body{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-family: sans-serif;
+}
+
+.list{
+    font-size: 20px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 1px;
+    box-shadow: 0px 0px 10px blue;
+    background-color: rgba(0, 0, 255, 0.236);
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    list-style: none;
+}
+
+.red{
+    color: red;
+}
+
+.list_item{
+    margin: 20px 20px 20px 20px;
+}
